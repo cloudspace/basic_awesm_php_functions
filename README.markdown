@@ -1,4 +1,4 @@
-# PHP awe.sm library created by Michael Orr 
+# PHP awe.sm library
 
 main awesm api documentation: http://groups.google.com/group/awesm-api/web/api-documentation
 
